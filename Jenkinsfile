@@ -6,5 +6,13 @@ pipeline {
                 sh 'npm install'
             }
         }
+
+         stage('Test') {
+            steps {
+                echo 'This is test step'
+            }
+        }
     }
+
+
 }
