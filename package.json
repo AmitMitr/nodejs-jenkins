@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-jenkins",
+  "version": "1.0.0",
+  "description": "nodejsjenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitMitr/nodejs-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitMitr/nodejs-jenkins/issues"
+  },
+  "homepage": "https://github.com/AmitMitr/nodejs-jenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
